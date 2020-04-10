@@ -1,3 +1,5 @@
+Given a dataset and business goal, design your own data labeling job using Figure Eight's platform.  
+
 # Project Overview:
 
 Your goal, as a product owner is to build a product that helps doctors quickly identify cases of pneumonia in children. You'll want to build a classification system that
