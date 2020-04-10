@@ -13,4 +13,5 @@ The dataset you'll be given is a modified version of this Kaggle chest x-ray dat
 Link to data: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 Description from Udacity's AI Product Managemer Nanodegree Program:
+
 •	https://www.udacity.com/course/ai-product-manager-nanodegree--nd088
